@@ -1,4 +1,13 @@
 # Schoolfind (Node.js + MySQL) 👨🏻‍💻
+ Framework: Next.js (with React)
+ 
+ Database: MySQL
+ 
+ Tools Used: React Hook Form, Axios, CSS Modules / Tailwind CSS (or your choice), Vercel for deployment
+
+📄 Summary:
+
+This mini-project demonstrates a full-stack web application using Next.js and MySQL, focused on adding and displaying school data.
 
 https://www.loom.com/share/8777cb7a48174aedab8a99e9b5ad6e70
 
