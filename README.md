@@ -1,4 +1,4 @@
-# Schoolfind 👨🏻‍💻
+# Schoolfind (Node.js + MySQL) 👨🏻‍💻
 
 https://www.loom.com/share/8777cb7a48174aedab8a99e9b5ad6e70
 
