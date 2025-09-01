@@ -35,6 +35,16 @@ https://www.loom.com/share/8777cb7a48174aedab8a99e9b5ad6e70
   npm start
   ```
 
+## Environment Configuration
+### Edit .env with your database credentials
+ Example:
+ ```bash
+DB_HOST=localhost
+DB_PORT=3306
+DB_USER=root
+DB_PASSWORD=your_password_here
+DB_NAME=schooldb
+```
 
 
 ##  Screenshots 📱
