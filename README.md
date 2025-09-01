@@ -1,3 +1,42 @@
+# Schoolfind 👨🏻‍💻
+
+https://www.loom.com/share/8777cb7a48174aedab8a99e9b5ad6e70
+
+## Installation Instructions
+
+1. Navigate to the project directory:
+   ```bash
+   cd frontend 🚀
+    ```
+2. Install dependencies:
+   ```bash
+   npm install ✨
+   ```
+
+
+- **Development Server**
+  
+ 1. Navigate backend :
+   ```bash
+  cd backend 🚀
+   ```
+  2. Install dependencies:
+  ```bash
+   npm install ✨
+   ```
+  ## Running the Project
+   ```bash
+   npm run dev ▶️
+   ```
+
+- **Production Build**:
+  ```bash
+  npm run build
+  npm start
+  ```
+
+
+
 ##  Screenshots 📱
 
 ### Add school
